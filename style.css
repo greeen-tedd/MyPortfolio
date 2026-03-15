@@ -68,7 +68,7 @@ font-size:32px;
 font-weight:700;
 }
 
-/* HERO */
+/* maathihero */
 
 #hero{
 background:var(--beige);
@@ -133,7 +133,7 @@ color:white;
 transform:translateY(-3px);
 }
 
-/* SKILLS */
+/* skill */
 
 .skills-grid{
 display:grid;
@@ -159,7 +159,7 @@ transform:translateY(-6px);
 box-shadow:0 10px 25px rgba(0,0,0,0.08);
 }
 
-/* PROJECT */
+/* project */
 
 .project-card{
 display:flex;
@@ -193,7 +193,7 @@ margin-right:10px;
 font-size:14px;
 }
 
-/* CONTACT */
+/* contact */
 
 .contact-container{
 display:flex;
@@ -226,7 +226,7 @@ height:120px;
 resize:none;
 }
 
-/* SOCIAL */
+/* footer */
 
 .social-box{
 margin-top:50px;
@@ -253,7 +253,7 @@ color:var(--sky);
 transform:scale(1.2);
 }
 
-/* MOBILE */
+/* responsive */
 
 @media(max-width:768px){
 
